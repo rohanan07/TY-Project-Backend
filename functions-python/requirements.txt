@@ -1,0 +1,12 @@
+# functions-python/requirements.txt
+
+# Required for Firebase Functions
+firebase-functions
+firebase-admin
+
+# Machine Learning libraries
+transformers
+tensorflow
+scikit-learn
+joblib
+safetensors
