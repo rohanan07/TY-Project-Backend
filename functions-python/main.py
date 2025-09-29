@@ -1,4 +1,5 @@
 # main.py
+# Triggering a new deployment
 import firebase_admin
 from firebase_functions import firestore_fn, options
 from firebase_admin import firestore
